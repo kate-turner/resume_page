@@ -1,2 +1,21 @@
-body:
-{background-color: pink;}
+body {
+	background-color: #989898;
+	}
+
+img {display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;}
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+}
+
+h3 {
+	color: #ffffff;
+}
+
+a {
+	color: #ffffff;
+}
